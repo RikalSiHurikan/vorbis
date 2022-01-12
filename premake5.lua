@@ -11,7 +11,6 @@ project "Vorbis"
 		"include",
 		"../libogg/include"
 	}
-
 	files
 	{
 		"include/**.h",
